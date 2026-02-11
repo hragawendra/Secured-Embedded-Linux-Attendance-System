@@ -178,7 +178,7 @@ Linux Program/
 ## 🛠️ Technologies Used
 
 - Embedded C
-- Linux System Programming (POSIX)
+- Linux System Programming
 - UART Communication
 - I2C Protocol
 - Interrupt Handling
