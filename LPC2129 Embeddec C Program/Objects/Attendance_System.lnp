@@ -1,0 +1,15 @@
+--cpu ARM7TDMI
+".\objects\startup.o"
+".\objects\main.o"
+".\objects\delay.o"
+".\objects\lcd_4bit_driver.o"
+".\objects\uart0_driver.o"
+".\objects\uart1_driver.o"
+".\objects\i2c_driver.o"
+".\objects\rtc_driver.o"
+".\objects\uart0_interrupt.o"
+".\objects\uart1_interrupt.o"
+--strict --scatter ".\Objects\Attendance_System.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Attendance_System.map" -o .\Objects\Attendance_System.axf
