@@ -147,6 +147,23 @@ Unknown IDs are logged in:
 Anonymous_Login.log
 
 ```
+---
+
+## 🎥 Project Demo Videos
+
+### 🔹 Short Demo (Repository Version)
+
+The short demo video is available inside the repository:
+
+📁 `Output Video/Files Output.mp4`
+
+---
+
+### 🔹 Full System Demo (High-Quality Version – 400MB)
+
+▶️ **[Watch Full System Demo on Google Drive](https://drive.google.com/file/d/18-lNmB5cn5wvCuqNJf-cbI0AjKYILzIh/view?usp=sharing)**
+
+> ℹ️ Note: The full demo video is hosted externally due to GitHub’s 100MB file size limit.
 
 ---
 
