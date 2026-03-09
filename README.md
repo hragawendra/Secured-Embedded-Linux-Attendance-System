@@ -206,7 +206,7 @@ Linux Program/
 
 ---
 
-## 🚀 Engineering Concepts Demonstrated
+## 🚀 Concepts Demonstrated
 
 - Hybrid Embedded + Linux Architecture
 - Interrupt-driven communication
